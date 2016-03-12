@@ -64,6 +64,8 @@ a:focus {
   display: block !important;
   z-index: 1;
   text-align: center;
+    padding: 35px;
+    height: 100%;
 }
 #main-slider .item:first-child {
   top: auto;
@@ -627,7 +629,7 @@ textarea#message {
     -o-transform: scale(1);
   }
 }
-video { 
+#bgvid { 
     position: absolute;
     top: 20%;
     left: 50%;

@@ -640,3 +640,6 @@ textarea#message {
     z-index: -100;
     transform: translateX(-50%) translateY(-50%);
 }
+.print{
+    border:red solid 1px;
+}
